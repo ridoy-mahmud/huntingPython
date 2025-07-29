@@ -1,7 +1,3 @@
-# Getting Started with Pandas Locally
-
-To get started with Pandas locally, you can follow these steps to set up your environment and clone the recommended repository.
-
 ## Setting Up Your Local Environment
 
 ### Step 1: Install Python
@@ -15,11 +11,6 @@ Fork the repository to your own GitHub account by visiting [complete-pandas-tuto
 ### Step 3: Clone the Forked Repository
 
 Clone your forked repository to your local machine. Open a terminal or command prompt and run:
-
-```sh
-git clone https://github.com/yourusername/complete-pandas-tutorial.git
-cd complete-pandas-tutorial
-```
 
 Replace `yourusername` with your actual GitHub username.
 
