@@ -6,12 +6,11 @@ First, ensure you have Python installed on your system. You can download Python 
 
 ### Step 2: Fork the Repository
 
-Fork the repository to your own GitHub account by visiting [complete-pandas-tutorial](https://github.com/KeithGalli/complete-pandas-tutorial) and clicking the "Fork" button in the top-right corner.
+Fork the repository to your own GitHub
 
 ### Step 3: Clone the Forked Repository
 
 Clone your forked repository to your local machine. Open a terminal or command prompt and run:
-
 Replace `yourusername` with your actual GitHub username.
 
 ### Step 4: Create a Virtual Environment (optional)
